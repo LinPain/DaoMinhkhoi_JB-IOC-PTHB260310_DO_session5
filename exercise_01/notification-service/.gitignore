@@ -1,0 +1,6 @@
+# notification-service
+build/
+.gradle/
+.idea/
+*.iml
+

@@ -1,0 +1,6 @@
+# restaurant-service
+build/
+.gradle/
+.idea/
+*.iml
+
